@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'TTTravels-Bold';
+  src: url('~@/assets/fonts/TTTravels-Bold.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'TTTravels-Medium';
+  src: url('~@/assets/fonts/TTTravels-Medium.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
